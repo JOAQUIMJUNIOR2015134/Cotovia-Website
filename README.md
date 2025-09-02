@@ -14,8 +14,16 @@ O projeto segue a estrutura padrão do Vite para React.
 1. Instale as dependências: `npm install`
 2. Inicie o servidor: `npm run dev`
 
----
 
-Este README pode ser expandido conforme o projeto evolui.
+Histórico de desenvolvimento
+Commit inicial (02/09/2025):
+
+Estrutura React+Vite
+Instalação de dependências
+Criação de componentes e estilos
+Correção de importações
+Configuração de navegação
+Repositório: Cotovia-Website
+
 
 
